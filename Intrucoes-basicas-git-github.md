@@ -43,7 +43,7 @@ Importante destacar que a chave é para não precisar ficar conectando manualmen
 #### 7. Para conectar de forma segura é só digitar os seguintes comandos no CLI.
 #### 8. /<eval $(ssh-agent -s)> + enter
 #### 9. /<ls> + enter
-#### 10. <ssh-add id_ed25519> + enter
+#### 10. /<ssh-add id_ed25519> + enter
 
 Voltar para as [Instruções básicas](#instru).
 
