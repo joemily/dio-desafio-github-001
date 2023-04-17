@@ -1,6 +1,6 @@
 # Desafio Git/Github DIO - Instruções básicas {#ins_bas}
 
-## Instruções iniciais para configurar uma chave ssh para conexão segura local no github e um passo a passo para criar um repositório no github e na máquina local.
+### Instruções iniciais para configurar uma chave ssh para conexão segura local no github e um passo a passo para criar um repositório no github e na máquina local.
 É possível utilizar vários sistemas operacionais para realizar estes processos, cada um pode ter suas particularidades, o sistemas utilizado foi o Linux e o GitHub estava com a Interface na linguagem Inglês, por isso alguns termos não estão em português e o CLI (Comand Line Interface) é citado várias vezes, ao invés de outro sistema que podem ser usado no Windows por exemplo. Mas no geral não há muita diferenciação nesses passos iniciais, por isso dá para seguir normalmente e qualquer detalhe mais específico pode consultar vídeos de utilização no Windows ou em aparelhos da Apple.
 
 #### 1. Criar uma conta no Github.
@@ -20,7 +20,7 @@
 #### 15. Por fim, caso faça uma alteração e ela esteja na nuvem e precise puxar para a máquina local, é só digitar o comando <git pull>
 
 
-## Chave SSH - configuração {#chave_ssh}
+## Chave SSH - configuração#chave_ssh
 
 #### 1. Gera uma chave na linha de comando da máquina localmente, via CLI, e conecta com a respectiva parte no GitHub.
 #### 2. Para gerar a chave digita no CLI o seguinte comando, sem os sinais menor/maior, <ssh-keygen -t ed25519 -C seu_email> 
@@ -31,7 +31,7 @@
 #### 7. Em seguida <ls> + enter, e <cat id_ed25519.pub> + enter, copia a chave que apareceu e [adiciona no GitHub](#add_github).
 
 
-## Adicionar chave no GitHub {#add_github}
+## Adicionar chave no GitHub{#add_github}
 Importante destacar que a chave é para não precisar ficar conectando manualmente toda vez que vai realizar alguma ação que tenha por objetibo conectar o github e a máquina em que está usando. Pode gerar tokens com tempo determinado de conexão, mas é outro processo, para mais informações pode verificar na [documentação do github](https://docs.github.com/pt).
 
 #### 1. Acessa a conta no GitHub
