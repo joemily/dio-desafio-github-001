@@ -20,7 +20,7 @@
 #### 15. Por fim, caso faça uma alteração e ela esteja na nuvem e precise puxar para a máquina local, é só digitar o comando <git pull>
 
 
-## <a name=“chave-ssh”><a/> Chave SSH - configuração
+## Chave SSH
 
 #### 1. Gera uma chave na linha de comando da máquina localmente, via CLI, e conecta com a respectiva parte no GitHub.
 #### 2. Para gerar a chave digita no CLI o seguinte comando, sem os sinais menor/maior, <ssh-keygen -t ed25519 -C seu_email> 
