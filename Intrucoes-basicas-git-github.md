@@ -15,7 +15,7 @@
 #### 10. Digita <git add .> para adicionar o novo arquivo no controle de versão local.
 #### 11. Em seguida é recomendável adicionar um comentário a edição feita.
 #### 12. Digita o comando <git commit -m "Comentário referente ao arquivo inserido/atualizado">, este comando cria um commit local.
-#### 13. Para adicionar as edições locais na nuvem, neste caso no GitHub, digita <git push origin main>.
+#### 13. Para adicionar as edições locais na nuvem, neste caso no GitHub, digita <git push origin main> + enter, vai ser solicitada a senha da chave ssh.
 #### 14. Agora que adicionou só verificar no GitHub se o arquivo já aparece.
 #### 15. Por fim, caso faça uma alteração e ela esteja na nuvem e precise puxar para a máquina local, é só digitar o comando <git pull>
 
