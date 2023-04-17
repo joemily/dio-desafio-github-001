@@ -6,7 +6,7 @@
 #### 1. Criar uma conta no Github.
 #### 2. Ter conhecimento básico de linha de comando, por exemplo, saber sobre os comandos ls, cd, mkdir.
 #### 3. Verificar qual o sistema operacional e em seguida instalar o [Git](https://git-scm.com/) localmente.
-#### 4. Criar [chave ssh](#chave_ssh) para conexão segura e automática para conexão entre repositório local e o GitHub.
+#### 4. Criar [chave ssh](https://github.com/joemily/dio-desafio-github-001/edit/main/Intrucoes-basicas-git-github.md#chave-ssh---configura%C3%A7%C3%A3ochave_ssh) para conexão segura e automática para conexão entre repositório local e o GitHub.
 #### 5. Agora que possui uma conexão segura é preciso testar alguns passos para versionamento do que é produzido.
 #### 6. Primeiro [cria um reposítório no GitHub e clona na máquina local](#cria_clona_rep). 
 #### 7. Para teste, cria um arquivo de texto e insere algo, salva o arquivo teste.txt na pasta que foi clonada do GitHub
@@ -20,7 +20,7 @@
 #### 15. Por fim, caso faça uma alteração e ela esteja na nuvem e precise puxar para a máquina local, é só digitar o comando <git pull>
 
 
-## Chave SSH - configuração#chave_ssh
+## Chave SSH - configuração
 
 #### 1. Gera uma chave na linha de comando da máquina localmente, via CLI, e conecta com a respectiva parte no GitHub.
 #### 2. Para gerar a chave digita no CLI o seguinte comando, sem os sinais menor/maior, <ssh-keygen -t ed25519 -C seu_email> 
