@@ -41,8 +41,8 @@ Importante destacar que a chave é para não precisar ficar conectando manualmen
 #### 5. Adiciona um título (title) para a chave.
 #### 6. Escolhe o tipo da chave (Key Type) e cola a chave que foi copiada no passo 7 da configuração da chave SSH.
 #### 7. Para conectar de forma segura é só digitar os seguintes comandos no CLI.
-#### 8. <eval $(ssh-agent -s)> + enter
-#### 9. <ls> + enter
+#### 8. /<eval $(ssh-agent -s)> + enter
+#### 9. /<ls> + enter
 #### 10. <ssh-add id_ed25519> + enter
 
 Voltar para as [Instruções básicas](#instru).
