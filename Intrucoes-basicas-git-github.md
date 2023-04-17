@@ -1,4 +1,4 @@
-# Desafio Git/Github DIO - Instruções básicas {#ins_bas}
+# Desafio Git/Github DIO - Instruções básicas {#ins-bas}
 
 ### Instruções iniciais para configurar uma chave ssh para conexão segura local no github e um passo a passo para criar um repositório no github e na máquina local.
 É possível utilizar vários sistemas operacionais para realizar estes processos, cada um pode ter suas particularidades, o sistemas utilizado foi o Linux e o GitHub estava com a Interface na linguagem Inglês, por isso alguns termos não estão em português e o CLI (Comand Line Interface) é citado várias vezes, ao invés de outro sistema que podem ser usado no Windows por exemplo. Mas no geral não há muita diferenciação nesses passos iniciais, por isso dá para seguir normalmente e qualquer detalhe mais específico pode consultar vídeos de utilização no Windows ou em aparelhos da Apple.
@@ -61,23 +61,4 @@ Voltar para as [Instruções básicas](#ins_bas).
 #### 10. Agora com o link copiado e já tendo acessado o diretório, vai clonar a pasta, digita no CLI <git clone link_ssh> + enter
 #### 11. Clone feito, pra confirmar só digita <ls> + enter, e verifica se o nome da pasta aparece.
 
-Voltar para as [Instruções básicas](#ins_bas).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Voltar para as [Instruções básicas](#ins-bas).
