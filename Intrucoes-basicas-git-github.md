@@ -28,10 +28,10 @@
 #### 4. Pode apertar enter novamente ou inserir o diretório que deseja salvar a chave ssh e aperta enter.
 #### 5. É solicitada uma senha para proteção do arquivo da chave, insere e aperta enter novamente.
 #### 6. Pela linha de comando (CLI) vai se direcionar para o local em que a chave foi salva e digitar o seguinte <cd .ssh> + enter
-#### 7. Em seguida <ls> + enter, e <cat id_ed25519.pub> + enter, copia a chave que apareceu e [adiciona no GitHub](#add_github).
+#### 7. Em seguida <ls> + enter, e <cat id_ed25519.pub> + enter, copia a chave que apareceu e [adiciona no GitHub](#add-github).
 
 
-## Adicionar chave no GitHub{#add_github}
+## <a id='add-github'></a>Adicionar chave no GitHub
 Importante destacar que a chave é para não precisar ficar conectando manualmente toda vez que vai realizar alguma ação que tenha por objetibo conectar o github e a máquina em que está usando. Pode gerar tokens com tempo determinado de conexão, mas é outro processo, para mais informações pode verificar na [documentação do github](https://docs.github.com/pt).
 
 #### 1. Acessa a conta no GitHub
@@ -42,8 +42,8 @@ Importante destacar que a chave é para não precisar ficar conectando manualmen
 #### 6. Escolhe o tipo da chave (Key Type) e cola a chave que foi copiada no passo 7 da configuração da chave SSH.
 #### 7. Para conectar de forma segura é só digitar os seguintes comandos no CLI.
 #### 8. <eval $(ssh-agent -s)> + enter
-#### 9. <ls> + enter
-#### 10. <ssh-add id_ed25519> + enter
+#### 9. </ls> + enter
+#### 10. </ssh-add id_ed25519> + enter
 
 Voltar para as [Instruções básicas](#desafio-de-projeto).
 
