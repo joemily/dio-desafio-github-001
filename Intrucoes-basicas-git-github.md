@@ -26,8 +26,8 @@
 ## Chave SSH
 
 #### 1. Gera uma chave na linha de comando da máquina localmente, via CLI, e conecta com a respectiva parte no GitHub.
-#### 2. Para gerar a chave digita no CLI o seguinte comando, sem os sinais menor/maior, `ssh-keygen -t ed25519 -C seu_email`.
-#### 3. Onde tem seu_email coloca o email conectado no github, em seguida pode apertar enter e prosseguir.
+#### 2. Para gerar a chave digita no CLI o seguinte comando `ssh-keygen -t ed25519 -C seu_email`.
+#### 3. Onde tem **seu_email** coloca o email conectado no github, em seguida pode apertar enter e prosseguir.
 #### 4. Pode inserir o diretório que deseja salvar a chave ssh e aperta enter, ou deixa o diretório atual e só aperta enter.
 #### 5. É solicitada uma senha para proteção do arquivo da chave, insere e aperta enter novamente.
 #### 6. Pela linha de comando (CLI), acessa o local em que a chave foi salva e digita o seguinte código `cd .ssh` + enter .
@@ -35,12 +35,12 @@
 
 
 ## <a id='add-github'></a>Adicionar chave no GitHub
-Importante destacar que a chave é para não precisar ficar conectando manualmente toda vez que vai realizar alguma ação que tenha por objetibo conectar o github e a máquina em que está usando. Pode gerar tokens com tempo determinado de conexão, mas é outro processo, para mais informações pode verificar na [documentação do github](https://docs.github.com/pt).
+Importante destacar que a chave é para não precisar ficar conectando manualmente no GitHub, toda vez que vai realizar alguma ação no diretório clonado. Outra opção existente é a de gerar tokens com tempo determinado de conexão, mas é outro processo, para mais informações pode verificar na [documentação do github](https://docs.github.com/pt).
 
 #### 1. Acessa a conta no GitHub.
 #### 2. Clica no perfil e vai em settings.
 #### 3. Em seguida clica em 'SSH and GPG keys'. 
-#### 4. CLica em 'new SSH key'.
+#### 4. Clica em 'new SSH key'.
 #### 5. Adiciona um título (title) para a chave.
 #### 6. Escolhe o tipo da chave (Key Type) e cola a chave que foi copiada no passo 7 da configuração da chave SSH.
 #### 7. Para conectar de forma segura é só digitar os seguintes comandos no CLI.
