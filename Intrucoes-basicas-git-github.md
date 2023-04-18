@@ -20,7 +20,8 @@
 #### 12. Digita o comando `git commit -m "Comentário referente ao arquivo inserido/atualizado"` + enter, este comando cria um commit local.
 #### 13. Para adicionar as edições locais na nuvem, neste caso no GitHub, digita `git push origin main` + enter, vai ser solicitada a senha da chave ssh.
 #### 14. Agora que adicionou só verificar no GitHub se o arquivo já aparece.
-#### 15. Por fim, caso faça uma alteração e ela esteja na nuvem e precise puxar para a máquina local, é só digitar o comando `git pull` + enter.
+#### 15. Caso precise verificar o status das alterações é só digite no CLI `git status`.
+#### 16. Por fim, caso faça uma alteração e ela esteja na nuvem e precise puxar para a máquina local, é só digitar o comando `git pull` + enter.
 
 
 ## Chave SSH
@@ -52,11 +53,11 @@ Voltar para as [Instruções básicas passo 5](#passo5).
 
 ## <a id='cria-clona-rep'></a>Criar e clonar um repositório do GitHub
 
-#### 1. Acessa o GitHub, vai no perfil e clica em setting "Your repositories".
+#### 1. Acessa o GitHub, vai no perfil e clica em "Your repositories".
 #### 2. Clica em New, vai abrir outra página, insere o nome do repositório (Repository name).
 #### 3. Insere uma descrição, é opcional.
 #### 4. Define se será público ou privado (public or private), de acordo com as necessidades do seu projeto.
-#### 5. É recomendável adicionar o README file, se quiser só marcar a opção para adicionar ele.
+#### 5. É recomendável adicionar o README file, para isso é só marcar a opção para adicionar ele.
 #### 6. Pode clicar em "Create repository", caso precise de mais algumas informações só acessar a [Documentação do github](https://docs.github.com/pt).
 #### 7. Agora é preciso clonar esse repositório localmente.
 #### 8. Acessa no CLI (pela linha de comando) a pasta/diretório que vai querer criar o clone do repositório do GitHub.
