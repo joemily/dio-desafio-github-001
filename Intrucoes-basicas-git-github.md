@@ -23,6 +23,16 @@
 #### 15. Caso precise verificar o status das alterações é só digite no CLI `git status`.
 #### 16. Por fim, caso faça uma alteração e ela esteja na nuvem e precise puxar para a máquina local, é só digitar o comando `git pull` + enter.
 
+  
+**Importante destacar: este documento contém um passo a passo básico, para maiores informações é possível acessar a documentação oficial de cada sistema e/ou buscar por maiores informações em video aulas, artigos e cursos mais específicos sobre o assunto.
+  
+  
+  
+  
+  
+  
+  
+  
 
 ## Chave SSH
 
