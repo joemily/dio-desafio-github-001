@@ -8,7 +8,7 @@
 #### 3. Verificar qual o sistema operacional e em seguida instalar o [Git](https://git-scm.com/) localmente.
 #### 4. Criar [chave ssh](#chave-ssh) para conexão segura e automática para conexão entre repositório local e o GitHub.
 #### 5. Agora que possui uma conexão segura é preciso testar alguns passos para versionamento do que é produzido.
-#### 6. Primeiro [cria um reposítório no GitHub e clona na máquina local](.cria-clona-rep).
+#### 6. Primeiro [cria um reposítório no GitHub e clona na máquina local](#cria-clona-rep).
 #### 7. Para teste, cria um arquivo de texto e insere algo, salva o arquivo teste.txt na pasta que foi clonada do GitHub
 #### 8. Será utilizado alguns comando do Git.
 #### 9. No CLI acessa a pasta que o arquivo está e digita <git status>, vai verificar algumas informações sobre o processo git local.
