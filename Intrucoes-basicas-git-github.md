@@ -2,7 +2,7 @@
 
 **Este é um desafio da DIO sobre Git/GitHub. Apresento algumas instruções iniciais para configurar uma chave ssh para conexão segura e para criar um repositório no github e na máquina local.**
 
-É possível utilizar vários sistemas operacionais para realizar estes processos, cada um pode ter suas particularidades, o sistema utilizado foi o Linux e o GitHub estava com a Interface configurada com a linguagem "Inglês", por isso alguns termos não estão em português e o CLI (Comand Line Interface) é citado várias vezes, ao invés do Gitbash que pode ser usado no Windows por exemplo. Mas no geral não há muita diferenciação nesses passos iniciais, por isso dá para seguir normalmente e qualquer detalhe mais específico pode consultar vídeos de como utilizar no Windows ou em aparelhos da Apple.
+É possível utilizar vários sistemas operacionais para realizar estes processos, cada um pode ter suas particularidades. Foi utilizado o Linux e o GitHub estava com a Interface configurada em "Inglês", por isso alguns termos não estão em português e o CLI (Comand Line Interface) é citado várias vezes, ao invés do Gitbash que pode ser usado no Windows por exemplo. Mas no geral esses passos iniciais são semelhantes para os diferentes sistemas operacionais, por isso dá para seguir normalmente e qualquer detalhe mais específico pode consultar vídeos de como utilizar no Windows ou em aparelhos da Apple.
 
 ## Instruções básicas: 
 
