@@ -4,7 +4,7 @@
 
 É possível utilizar vários sistemas operacionais para realizar estes processos, cada um pode ter suas particularidades, o sistema utilizado foi o Linux e o GitHub estava com a Interface configurada com a linguagem "Inglês", por isso alguns termos não estão em português e o CLI (Comand Line Interface) é citado várias vezes, ao invés do Gitbash que pode ser usado no Windows por exemplo. Mas no geral não há muita diferenciação nesses passos iniciais, por isso dá para seguir normalmente e qualquer detalhe mais específico pode consultar vídeos de como utilizar no Windows ou em aparelhos da Apple.
 
-#### Passos para configuração: 
+## Instruções básicas: 
 
 #### 1. Criar uma conta no Github.
 #### 2. Ter conhecimento básico de linha de comando, por exemplo, saber sobre os comandos ls, cd, mkdir.
