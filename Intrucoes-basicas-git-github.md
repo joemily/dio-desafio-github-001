@@ -7,9 +7,9 @@
 #### 2. Ter conhecimento básico de linha de comando, por exemplo, saber sobre os comandos ls, cd, mkdir.
 #### 3. Verificar qual o sistema operacional e em seguida instalar o [Git](https://git-scm.com/) localmente.
 #### 4. Criar [chave ssh](#chave-ssh) para conexão segura e automática para conexão entre repositório local e o GitHub.
-#### 5. Agora que possui uma conexão segura é preciso testar alguns passos para versionamento do que é produzido.
+#### 5. <a id='passo5'></a>Agora que possui uma conexão segura é preciso testar alguns passos para versionamento do que é produzido.
 #### 6. Primeiro [cria um reposítório no GitHub e clona na máquina local](#cria-clona-rep).
-#### 7. Para teste, cria um arquivo de texto e insere algo, salva o arquivo teste.txt na pasta que foi clonada do GitHub
+#### 7. <a id='passo7'></a>Para teste, cria um arquivo de texto e insere algo, salva o arquivo teste.txt na pasta que foi clonada do GitHub
 #### 8. Será utilizado alguns comando do Git.
 #### 9. No CLI acessa a pasta que o arquivo está e digita <git status>, vai verificar algumas informações sobre o processo git local.
 #### 10. Digita <git add .> para adicionar o novo arquivo no controle de versão local.
@@ -45,7 +45,7 @@ Importante destacar que a chave é para não precisar ficar conectando manualmen
 #### 9. </ls> + enter
 #### 10. </ssh-add id_ed25519> + enter
 
-Voltar para as [Instruções básicas](#desafio-de-projeto).
+Voltar para as [Instruções básicas passo 5](#passo5).
 
 ## <a id='cria-clona-rep'></a>Criar e clonar um repositório do GitHub
 
@@ -61,4 +61,4 @@ Voltar para as [Instruções básicas](#desafio-de-projeto).
 #### 10. Agora com o link copiado e já tendo acessado o diretório, vai clonar a pasta, digita no CLI <git clone link_ssh> + enter
 #### 11. Clone feito, pra confirmar só digita <ls> + enter, e verifica se o nome da pasta aparece.
 
-Voltar para as [Instruções básicas](#desafio-de-projeto).
+Voltar para as [Instruções básicas passo 7](#passo7).
